@@ -9,7 +9,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=CHASANGGON&show_icons=true&show&&theme=ambient_gradient)
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yg9618)](https://solved.ac/yg9618)
-
+[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=yg9618)](https://solved.ac/yg9618)
 </div>
 
 🏆Baekjoon  
