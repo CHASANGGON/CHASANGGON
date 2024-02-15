@@ -8,6 +8,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=CHASANGGON&show_icons=true&show&&theme=ambient_gradient)
 
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yg9618)](https://solved.ac/yg9618)
 
 <img src ="http://mazassumnida.wtf/api/generate_badge?boj=yg9618"/><img src="http://mazandi.herokuapp.com/api?handle=yg9618&theme=dark"/>
 
