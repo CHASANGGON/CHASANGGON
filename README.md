@@ -26,7 +26,9 @@
 
 <div align="center"> 
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=yg9618)](https://solved.ac/yg9618)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=yg9618)](https://solved.ac/yg9618)  
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
 </div>
