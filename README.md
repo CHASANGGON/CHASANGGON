@@ -9,7 +9,6 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=CHASANGGON&show_icons=true&show&&theme=ambient_gradient)
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yg9618)](https://solved.ac/yg9618)  
-[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=yg9618)](https://solved.ac/yg9618)
 </div>
 
 🏆Baekjoon  
@@ -23,3 +22,8 @@
 🔸 2016.02 능인고등학교 졸업  
 🔸 2024.02 경북대학교 전자공학부 졸업  
 🔸 삼성 청년 SW 아카데미(SSAFY) 11기  
+
+
+<div align="center"> 
+[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=yg9618)](https://solved.ac/yg9618)
+</div>
