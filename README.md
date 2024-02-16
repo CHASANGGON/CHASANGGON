@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=0:fbc2eb,100:a6c1ee&text=CHA%20SANG%20GON&fontColor=CC99FF&animation=blinking)
 
  
-내가 한다면 하는 것이고, 간다면 가는 거야!🔥🔥🔥
+내가 한다면 하는 거고, 간다면 가는 거야!🔥🔥🔥
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=CHASANGGON&show_icons=true&show&&theme=ambient_gradient)
