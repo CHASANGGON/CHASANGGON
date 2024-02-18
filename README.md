@@ -2,7 +2,10 @@
 
 ![header](https://capsule-render.vercel.app/api?type=venom&color=0:fbc2eb,100:a6c1ee&text=CHA%20SANG%20GON&fontColor=CC99FF&animation=blinking)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kei03016)](https://solved.ac/kei03016)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minsoo0361&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
+
 
 
 내가 한다면 하는 거고, 간다면 가는 거야!🔥🔥🔥
