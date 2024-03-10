@@ -15,7 +15,7 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yg9618)](https://solved.ac/yg9618)  
 </div>
 
-<h1🏆Baekjoon</h1>
+<h1>🏆Baekjoon</h1>
 🐥2024.01.11 첫 문제 solve  
 🥉2024.01.16 Bronze 5 달성  
 🥈2024.01.21 Silver 5 달성  
