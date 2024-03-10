@@ -30,6 +30,8 @@
 
 <div align="center"> 
 
+![python](https://img.shields.io/badge/python-#3776AB.svg?&style=for-the-badge&logo=python&logoColor=#3776AB)
+
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=yg9618)](https://solved.ac/yg9618)  
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
