@@ -33,7 +33,7 @@
 🔸 2024.01 ~ 삼성 청년 SW 아카데미(SSAFY) 11기<br>
 
 
-<h1>🖥️Language</h1>
+<h1>🖥️Stacks</h1>
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=yg9618)](https://solved.ac/yg9618)  
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
