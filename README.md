@@ -9,8 +9,8 @@
 
 내가 한다면 하는 거고, 간다면 가는 거야!🔥🔥🔥
 
-<a href="https://github.com/CHASANGGON"><img align="center" style="height:200px; width:300px;" src="https://github-readme-stats.vercel.app/api?username=CHASANGGON&show_icons=true&include_all_commits=true&theme=ambient_gradient&hide_border=true" alt="CHASANGGON's github stats" /></a>
-<a href="https://github.com/CHASANGGON"><img align="center" style="height:200px; width:300px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHASANGGON&layout=compact&theme=ambient_gradient&hide_border=true" /></a>
+<a href="https://github.com/CHASANGGON"><img align="center" style="height:300px; width:450px;" src="https://github-readme-stats.vercel.app/api?username=CHASANGGON&show_icons=true&include_all_commits=true&theme=ambient_gradient&hide_border=true" alt="CHASANGGON's github stats" /></a>
+<a href="https://github.com/CHASANGGON"><img align="center" style="height:300px; width:450px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHASANGGON&layout=compact&theme=ambient_gradient&hide_border=true" /></a>
 
 
 
