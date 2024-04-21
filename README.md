@@ -18,7 +18,7 @@
 
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yg9618)](https://solved.ac/yg9618)  
-</div>
+
 
 
 <h1>👨‍🎓Education</h1>
@@ -28,7 +28,8 @@
 🔸 2024.01 ~ 삼성 청년 SW 아카데미(SSAFY) 11기<br>
 
 
-<h1>🖥️Languages and Tools</h1>
+<h1>🖥️Tech Stack</h1>
+<h1>🖥️Tools</h1>
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=yg9618)](https://solved.ac/yg9618)
 
