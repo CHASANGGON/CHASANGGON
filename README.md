@@ -10,8 +10,8 @@
 내가 한다면 하는 거고, 간다면 가는 거야!🔥🔥🔥
 
 <div style="display: flex;">
-    <a href="https://github.com/CHASANGGON"><img style="height:240px; width:360px; margin-right: 20px;" src="https://github-readme-stats.vercel.app/api?username=CHASANGGON&layout=compact&show_icons=true&include_all_commits=true&theme=ambient_gradient&hide_border=true" alt="CHASANGGON's github stats" /></a>
-    <a href="https://github.com/CHASANGGON"><img style="height:240px; width:300px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHASANGGON&layout=compact&show_icons=true&theme=ambient_gradient&hide_border=true" /></a>
+    <a href="https://github.com/CHASANGGON"><img style="height:280px; width:420px; margin-right: 20px;" src="https://github-readme-stats.vercel.app/api?username=CHASANGGON&layout=compact&show_icons=true&include_all_commits=true&theme=ambient_gradient&hide_border=true" alt="CHASANGGON's github stats" /></a>
+    <a href="https://github.com/CHASANGGON"><img style="height:280px; width:350px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHASANGGON&layout=compact&show_icons=true&theme=ambient_gradient&hide_border=true" /></a>
 </div>
 
 
