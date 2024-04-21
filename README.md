@@ -20,11 +20,6 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yg9618)](https://solved.ac/yg9618)  
 </div>
 
-<h1>🏆Baekjoon</h1>
-🐥2024.01.11 첫 문제 solve<br>  
-🥉2024.01.16 Bronze 5 달성<br>
-🥈2024.01.21 Silver 5 달성<br>
-🥇2024.02.15 Gold   5 달성<br>
 
 <h1>👨‍🎓Education</h1>
 🔸 2013.02 능인중학교 졸업<br>
