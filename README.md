@@ -27,7 +27,6 @@
 🔸 2024.02 경북대학교 전자공학부 졸업<br>
 🔸 2024.01 ~ 삼성 청년 SW 아카데미(SSAFY) 11기<br>
 
-<hr>
 <h1>🖥️Tech Stack</h1>
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=yg9618)](https://solved.ac/yg9618)
@@ -36,11 +35,10 @@
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<hr>
+
 
 <h1>🖥️Tools</h1>
 <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
-<hr>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCHASANGGON&count_bg=%23B3FFBF&title_bg=%23555555&icon=moo.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
