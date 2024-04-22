@@ -14,14 +14,16 @@
     <a href="https://github.com/CHASANGGON"><img style="height:150px; border: 1px solid #ccc;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHASANGGON&layout=compact&show_icons=true&theme=ambient_gradient&hide_border=true" /></a>
 </div>
 
-
-
+<br>
+<br>
+<br>
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yg9618)](https://solved.ac/yg9618)  
 </div>
 
-
-
+<br>
+<br>
+<br>
 
 <h2 align="center">🖥️Tech Stack</h2>
 
@@ -31,6 +33,10 @@
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
 </div>
 
+<br>
+<br>
+<br>
+
 <div align="center">
 <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
@@ -39,8 +45,6 @@
 <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />
 </div>
 
-<br>
-<br>
 <br>
 <br>
 <br>
@@ -56,8 +60,9 @@
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
 </div>
 
-
-
+<br>
+<br>
+<br>
 
 <h2 align="center">👨‍🎓Education</h1>
 🔸 2013.02 능인중학교 졸업<br>
