@@ -58,8 +58,8 @@
 <br>
 <br>
 
-<h2 align="center">👨‍🎓Education</h1>
-<div align="center">
+<h2>👨‍🎓Education</h1>
+<div>
 🔸 2013.02 능인중학교 졸업<br>
 🔸 2016.02 능인고등학교 졸업<br>
 🔸 2024.02 경북대학교 전자공학부 졸업<br>
