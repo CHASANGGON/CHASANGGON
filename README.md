@@ -22,7 +22,7 @@
 
 
 
-<h1>🖥️Tech Stack</h1>
+<h1 style="text-align: center">🖥️Tech Stack</h1>
 
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
