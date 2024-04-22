@@ -38,6 +38,7 @@
   <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />
 </div>
 
+
 <h1>🛠 Tools 🛠</h1>
 <div style="display: flex;">
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
@@ -51,13 +52,14 @@
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
 </div>
 
+
 <h1>👨‍🎓Education</h1>
 🔸 2013.02 능인중학교 졸업<br>
 🔸 2016.02 능인고등학교 졸업<br>
 🔸 2024.02 경북대학교 전자공학부 졸업<br>
 🔸 2024.01 ~ 삼성 청년 SW 아카데미(SSAFY) 11기<br>
-<hr>
 
+<hr>
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=yg9618)](https://solved.ac/yg9618)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCHASANGGON&count_bg=%23B3FFBF&title_bg=%23555555&icon=moo.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
