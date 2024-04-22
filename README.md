@@ -21,11 +21,6 @@
 </div>
 
 
-<h1>👨‍🎓Education</h1>
-🔸 2013.02 능인중학교 졸업<br>
-🔸 2016.02 능인고등학교 졸업<br>
-🔸 2024.02 경북대학교 전자공학부 졸업<br>
-🔸 2024.01 ~ 삼성 청년 SW 아카데미(SSAFY) 11기<br>
 
 <h1>🖥️Tech Stack</h1>
 
@@ -56,6 +51,11 @@
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
 </div>
 
+<h1>👨‍🎓Education</h1>
+🔸 2013.02 능인중학교 졸업<br>
+🔸 2016.02 능인고등학교 졸업<br>
+🔸 2024.02 경북대학교 전자공학부 졸업<br>
+🔸 2024.01 ~ 삼성 청년 SW 아카데미(SSAFY) 11기<br>
 <hr>
 
 
