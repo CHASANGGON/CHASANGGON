@@ -11,7 +11,6 @@
 <div style="display: flex;">
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=CHASANGGON&show_icons=true&show&&theme=ambient_gradient)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=CHASANGGON&show_icons=true&show&&theme=ambient_gradient)
 <img style="height:150px; border: 1px solid #ccc;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHASANGGON&layout=compact&show_icons=true&theme=ambient_gradient&hide_border=true" />
 </div>
 
