@@ -11,7 +11,7 @@
 
 <div style="display: flex;">
     <a>[![CHASANGGON's github stats](https://github-readme-stats.vercel.app/api?username={CHASANGGON}&show_icons=true&theme={ambient_gradient})](https://github.com/{CHASANGGON}/github-readme-stats)</a>
-    [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username={username}&show_icons=true&theme={theme})](https://github.com/{username}/github-readme-stats)
+    [![CHASANGGON's github stats](https://github-readme-stats.vercel.app/api?username={CHASANGGON}&show_icons=true&theme={ambient_gradient})](https://github.com/{CHASANGGON}/github-readme-stats)
     <a href="https://github.com/CHASANGGON"><img style="height:150px; border: 1px solid #ccc;" src="https://github-readme-stats.vercel.app/api?username=CHASANGGON&layout=compact&show_icons=true&include_all_commits=true&theme=ambient_gradient&hide_border=true" alt="CHASANGGON's github stats" /></a>
     <a href="https://github.com/CHASANGGON"><img style="height:150px; border: 1px solid #ccc;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHASANGGON&layout=compact&show_icons=true&theme=ambient_gradient&hide_border=true" /></a>
 </div>
