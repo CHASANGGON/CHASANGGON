@@ -9,8 +9,8 @@
 내가 한다면 하는 거고, 간다면 가는 거야!🔥🔥🔥
 
 <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=CHASANGGON&show_icons=true&theme=ambient_gradient" alt="GitHub stats" width="352" height="200">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHASANGGON&layout=compact&show_icons=true&theme=ambient_gradient&hide_border=true" width="384" height="200>
+    <img src="https://github-readme-stats.vercel.app/api?username=CHASANGGON&show_icons=true&theme=ambient_gradient" alt="GitHub stats" width="350" height="200">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHASANGGON&layout=compact&show_icons=true&theme=ambient_gradient&hide_border=true" width="250" height="200>
 </div>
 
 
