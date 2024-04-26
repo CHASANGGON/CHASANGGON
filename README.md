@@ -4,6 +4,7 @@
 
 
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=CHASANGGON&show_icons=true&show&&theme=ambient_gradient)
 
 <div style="display: flex;">
     <a href="https://github.com/CHASANGGON"><img style="height:150px; margin-right: 20px; border: 1px solid #ccc;" src="https://github-readme-stats.vercel.app/api?username=CHASANGGON&layout=compact&show_icons=true&include_all_commits=true&theme=ambient_gradient&hide_border=true" alt="CHASANGGON's github stats" /></a>
