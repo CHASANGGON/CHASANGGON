@@ -56,7 +56,7 @@
 
 <br>
 <br>
-
+<!--
 <h2>👨‍🎓Education</h1>
 <div>
 🔸 2013.02 능인중학교 졸업<br>
@@ -64,7 +64,7 @@
 🔸 2024.02 경북대학교 전자공학부 졸업<br>
 🔸 2024.01 ~ 삼성 청년 SW 아카데미(SSAFY) 11기<br>
 </div>
-
+-->
 <hr>
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=yg9618)](https://solved.ac/yg9618)
