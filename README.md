@@ -107,7 +107,7 @@
 <img
   src="https://render.gitanimals.org/farms/CHASANGGON"
   width="1000"
-  height="300"
+  height="400"
 />
 </a>
 
