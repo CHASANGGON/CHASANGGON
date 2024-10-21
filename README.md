@@ -18,6 +18,12 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yg9618)](https://solved.ac/yg9618)  
 </div>
 
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{chasanggon}?pet-id=1" width="1000" height="120"/>
+</a>
+
+
 <br>
 <br>
 <br>
@@ -32,12 +38,6 @@
     <img src="https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
     <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 </div>
-
-
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{chasanggon}?pet-id=1" width="1000" height="120"/>
-</a>
-
 
 <br>
 
