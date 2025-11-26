@@ -29,6 +29,7 @@
 ---
 
 <!-- Additional Skills (Collapsible) -->
+<div align="left">
 <details>
 <summary><strong>📁: Previously Used Technologies</strong></summary>
 <br>
@@ -104,7 +105,7 @@
 </div>
 
 </details>
-
+</div>
 
 
 
