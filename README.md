@@ -1,6 +1,6 @@
 <div align="center"> 
 
-## Making a living writing backend code😴💻
+## Making a living writing code😴💻
 
 
 
