@@ -53,7 +53,7 @@
 
 <!-- Additional Skills (Collapsible) -->
 <details>
-##📁 Previously Used Technologies
+<summary><strong>📁: Previously Used Technologies</strong></summary>
 <br>
 
 <!-- Languages -->
@@ -109,7 +109,10 @@
     <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
     <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
     <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
+    <br>
     <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+    <img src="https://img.shields.io/badge/AWS_EC2-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+    <img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazon-aws&logoColor=white">
 </div>
 
 <br>
