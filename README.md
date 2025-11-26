@@ -19,15 +19,46 @@
 
 
 
+
 <br>
 <br>
 <br>
 
-<h2 align="left" style="display: flex;">🖥️ Tech Stack</h2>
+
+
+
+<!-- Main Skill & Tech Stack -->
+<div align="left">
+
+## 🖥️ Main Language
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+
+## 🔧 Main Tech Stack
+<img src="https://img.shields.io/badge/Spring_Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+<img src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+<img src="https://img.shields.io/badge/Nexacro_Platform-0A84FF?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/X--UP_Framework-333333?style=for-the-badge&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/MyBatis-BF4F34?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white">
+<img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
+<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
+
+</div>
+
+---
+
+<!-- Additional Skills (Collapsible) -->
+<details>
+<summary><strong>📁 열어서 보기: Additional Skills (과거 사용 기술)</strong></summary>
+<br>
 
 <!-- Languages -->
-<div align="center">
-    📚 <strong>Languages:</strong> 📚
+<div align="left">
+    📚 <strong>Languages</strong> 📚
     <br>
     <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
     <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
@@ -37,34 +68,33 @@
 <br>
 
 <!-- Back-End -->
-<div align="center">
-    💻 <strong>Back-End:</strong> 💻
+<div align="left">
+    💻 <strong>Back-End</strong> 💻
     <br>
     <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
     <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-    <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white">
     <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
 </div>
 
 <br>
 
 <!-- Front-End -->
-<div align="center">
-    🎨 <strong>Front-End:</strong> 🎨
+<div align="left">
+    🎨 <strong>Front-End</strong> 🎨
     <br>
     <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=white" />
     <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> 
-    <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
 </div>
 
 <br>
 
 <!-- Database -->
-<div align="center">
-    💾 <strong>Database:</strong> 💾
+<div align="left">
+    💾 <strong>Database</strong> 💾
     <br>
     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
@@ -73,8 +103,8 @@
 <br>
 
 <!-- Deployment -->
-<div align="center">
-    🚀 <strong>Deployment:</strong> 🚀
+<div align="left">
+    🚀 <strong>Deployment</strong> 🚀
     <br>
     <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
     <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
@@ -85,20 +115,26 @@
 <br>
 
 <!-- Communication -->
-<div align="center">
-    💬 <strong>Communication:</strong> 💬
+<div align="left">
+    💬 <strong>Communication</strong> 💬
     <br>
     <img src="https://img.shields.io/badge/zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white">
     <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
     <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 </div>
 
+</details>
+
 
 
 
 
 <br>
 <br>
+
+
+
+
 
 <hr>
 <div align="center">
