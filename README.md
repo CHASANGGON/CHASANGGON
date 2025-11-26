@@ -1,35 +1,12 @@
 <div align="center"> 
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=0:fbc2eb,100:a6c1ee&text=CHA%20SANG%20GON&fontColor=CC99FF&animation=blinking)
-
-
-
-
-<div>
-    <img src="https://github-readme-stats.vercel.app/api?username=CHASANGGON&show_icons=true&theme=ambient_gradient" alt="GitHub stats" width="352">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHASANGGON&layout=compact&show_icons=true&theme=ambient_gradient&hide_border=true" width="266">
-</div>
-
-
-
-<br>
-
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yg9618)](https://solved.ac/yg9618)  
-</div>
-
-
-
-
-<br>
-<br>
-<br>
-
+## Making a living writing backend code😴
 
 
 
 <!-- Main Skill & Tech Stack -->
 <div align="left">
-
+    
 ## 🖥️ Main Language
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
