@@ -53,7 +53,7 @@
 
 <!-- Additional Skills (Collapsible) -->
 <details>
-<summary><strong>📁 열어서 보기: Additional Skills (과거 사용 기술)</strong></summary>
+##📁 Previously Used Technologies
 <br>
 
 <!-- Languages -->
