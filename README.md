@@ -14,8 +14,6 @@
 ## 🔧 Main Tech Stack
 <img src="https://img.shields.io/badge/Spring_Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 <img src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-<img src="https://img.shields.io/badge/Nexacro_Platform-0A84FF?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/X--UP_Framework-333333?style=for-the-badge&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/MyBatis-BF4F34?style=for-the-badge&logoColor=white">
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
